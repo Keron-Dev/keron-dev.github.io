@@ -7,7 +7,7 @@ title: 关于我
 
 该博客托管于 GitHub Page
 
-主题是tmaize写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+主题是tmaize写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](https://github.com/Keron-Dev/Issueforme/issues)留言即可
 
 ## 相关技能
 
